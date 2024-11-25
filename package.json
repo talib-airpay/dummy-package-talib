@@ -6,14 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "dummy",
-    "test",
-    "package"
-  ],
+  "keywords": ["dummy", "test", "package"],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dummy-package-talib": "^1.0.0"
-  }
+  "license": "ISC"
 }
